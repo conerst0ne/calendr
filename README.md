@@ -5,7 +5,7 @@
 [![Release](https://img.shields.io/github/v/release/conerst0ne/Calendr)](https://github.com/conerst0ne/Calendr/releases/latest)
 
 <p align="center">
-  <img src="docs/demo-menubar.gif" width="700" alt="Calendr menubar demo">
+  <img src="resources/screenshot.png" width="700" alt="Calendr menubar demo">
   <br>
   <em>Stop alt-tabbing into Calendar just to know what's next.</em>
 </p>
