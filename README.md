@@ -3,7 +3,6 @@
 
 [![Download](https://img.shields.io/badge/.dmg-Download-24292e?logo=apple)](https://github.com/conerst0ne/Calendr/releases/latest)
 [![Release](https://img.shields.io/github/v/release/conerst0ne/Calendr)](https://github.com/conerst0ne/Calendr/releases/latest)
-[![Tests](https://img.shields.io/bitrise/9fa2e96dc9458fbb?label=Unit%20Tests&logo=bitrise)](https://app.bitrise.io/app/9fa2e96dc9458fbb)
 
 <p align="center">
   <img src="docs/demo-menubar.gif" width="700" alt="Calendr menubar demo">
